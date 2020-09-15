@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Taivnaa121/mern-todo-app/static/css/main.89ad99c1.chunk.css",
+    "main.js": "/Taivnaa121/mern-todo-app/static/js/main.51be119b.chunk.js",
+    "main.js.map": "/Taivnaa121/mern-todo-app/static/js/main.51be119b.chunk.js.map",
+    "runtime-main.js": "/Taivnaa121/mern-todo-app/static/js/runtime-main.acba77d8.js",
+    "runtime-main.js.map": "/Taivnaa121/mern-todo-app/static/js/runtime-main.acba77d8.js.map",
+    "static/css/2.11829350.chunk.css": "/Taivnaa121/mern-todo-app/static/css/2.11829350.chunk.css",
+    "static/js/2.11e4094f.chunk.js": "/Taivnaa121/mern-todo-app/static/js/2.11e4094f.chunk.js",
+    "static/js/2.11e4094f.chunk.js.map": "/Taivnaa121/mern-todo-app/static/js/2.11e4094f.chunk.js.map",
+    "index.html": "/Taivnaa121/mern-todo-app/index.html",
+    "precache-manifest.74cad1ba2341135614221580d83b9e51.js": "/Taivnaa121/mern-todo-app/precache-manifest.74cad1ba2341135614221580d83b9e51.js",
+    "service-worker.js": "/Taivnaa121/mern-todo-app/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/Taivnaa121/mern-todo-app/static/css/2.11829350.chunk.css.map",
+    "static/css/main.89ad99c1.chunk.css.map": "/Taivnaa121/mern-todo-app/static/css/main.89ad99c1.chunk.css.map",
+    "static/js/2.11e4094f.chunk.js.LICENSE.txt": "/Taivnaa121/mern-todo-app/static/js/2.11e4094f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.acba77d8.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.11e4094f.chunk.js",
+    "static/css/main.89ad99c1.chunk.css",
+    "static/js/main.51be119b.chunk.js"
+  ]
+}
